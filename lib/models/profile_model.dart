@@ -33,7 +33,7 @@ const ProfileModel sampleProfile = ProfileModel(
   profession: 'Flutter Developer & Electrical Engineer',
   bio: 'Works as Operation Engineer at Matarbari 1200MW USC Coal Fired Power Plant & in addition to this, passionate about creating user-friendly and engaging digital experiences.',
   email: 'anik.chy@engineer.com',
-  phone: '+8801812345670',
+  phone: '+8801234567890',
   profilePicAsset: 'assets/images/profile_picture.png',
   interestOneTitle: 'Cyber Security',
   interestOneDesc: 'Protecting digital systems and information network layers',
